@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RajkumarPatel_CENG319Lab1_Ex1</string>
+    <string name="life_cycle_methods_demonstration">Life Cycle Methods Demonstration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_activity_oncreate_executed_onstart_executed">Main Activity: onCreate executed onStart executed</string>
+    <string name="aiactivity_oncreate_executed_onstart_executed">AIActivity: onCreate executed onStart executed</string>
+    <string name="vractivity_oncreate_executed_onstart_executed">VRActivity: onCreate executed onStart executed</string>
+</resources>

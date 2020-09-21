@@ -3,7 +3,6 @@ package com.example.rajkumarpatel_ceng319lab1_ex1;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class AIActivity extends AppCompatActivity {
